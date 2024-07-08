@@ -4,10 +4,10 @@ stacked acrylic case for reviung41
 
 compatible with standard pcb and plate.
 
-### Parts needed
+## Parts needed
 All of the standard parts to build a Reviung41 are needed, except the bottom plate, screws and standoffs.
 
-##### Screws and standoffs
+### Screws and standoffs
 |Part|Quantity|
 |-----|-----|
 |M2 standoff 13mm | 11 |
@@ -15,7 +15,7 @@ All of the standard parts to build a Reviung41 are needed, except the bottom pla
 |M2 screw 6mm | 21 |
 
 
-##### Lazer cutting
+### Lazer cutting
 All layers are designed to be cut in 3mm
 
 |File|Quantity|Notes|
@@ -27,7 +27,7 @@ All layers are designed to be cut in 3mm
 |bottom.dxf | 1 | |
 
 
-### More pictures
+## More pictures
 ![case img 1](/img/1.jpg)
 ![case img 2](/img/3.jpg)
 ![case img 3](/img/4.jpg)
