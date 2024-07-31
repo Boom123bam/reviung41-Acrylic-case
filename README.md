@@ -22,7 +22,7 @@ All layers are designed to be cut in 3mm
 |-----|-----|-----|
 |top.dxf | 1 | |
 |mid-upper.dxf | 1 | |
-|mid.dxf | 3 | cutting 3 layers will result in a tight fit for the USB cable (~9 mm height). If you are worried, you can cut another layer and replace the standoffs 9mm -> 10mm, 13mm -> 16mm |
+|mid.dxf | 3 | cutting 3 layers will result in a tight fit for the USB cable (~9 mm height). It should fit most cables, but if you are worried, you can cut another layer and replace the standoffs 9mm -> 10mm, 13mm -> 16mm |
 |mid-lower.dxf | 1 | |
 |bottom.dxf | 1 | |
 
